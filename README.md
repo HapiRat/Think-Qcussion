@@ -14,21 +14,33 @@ My innovative teaching methodology, named, "Think-Quescussion" reflects the esse
 (3) Determining the understanding of the concepts through Q\&A (Think-Quescussion, 10-15 minutes).
 
 
-Algorithm 1 lists the step by step procedure to implement my initiative. In every practice session, I provide a hand out to the students to learn and perform the experiments independently. This practice allows them to explore different directions and learn from their mistakes if they commit any. Finally, the last part of the methodology is designed to cover the third essential element of my teaching philosophy, a two-step process covering the \textit{think} and \textit{quescussion} part. At the end of my teaching part, I select a random student from one of the previous day's attendance list and ask him/her to ask a question and suggest one number randomly. This is the first step in \textit{Think-Quescussion}, where the student thinks of a logical question. Now, the second selected student responds to first student's question and then asks a question and suggests a random number that will be the third student chosen from the attendance list. This is the second step in the proposed process in which discussion of concepts through questions starts, and students start churning their brain wheels. This process continues until questions related to topics covered till that session are asked and responded. This is a new version of peer-learning techniques that I named \textit{Think-Quescussion}. It is one of the best practices that students find quite comfortable to answer questions that enhance their knowledge and boost their confidence (You can find the students feedback in the teaching effectiveness section). 
+Algorithm 1 lists the step by step procedure to implement my initiative. In every practice session, I provide a hand out to the students to learn and perform the experiments independently. This practice allows them to explore different directions and learn from their mistakes if they commit any. Finally, the last part of the methodology is designed to cover the third essential element of my teaching philosophy, a two-step process covering the "think" and "quescussion" part. At the end of my teaching part, I select a random student from one of the previous day's attendance list and ask him/her to ask a question and suggest one number randomly. This is the first step in "Think-Quescussion", where the student thinks of a logical question. Now, the second selected student responds to first student's question and then asks a question and suggests a random number that will be the third student chosen from the attendance list. This is the second step in the proposed process in which discussion of concepts through questions starts, and students start churning their brain wheels. This process continues until questions related to topics covered till that session are asked and responded. This is a new version of peer-learning techniques that I named "Think-Quescussion". It is one of the best practices that students find quite comfortable to answer questions that enhance their knowledge and boost their confidence (You can find the students feedback in the teaching effectiveness section). 
 
 
 Algorithm 1: Think-Quescussion
-      Procedure{
+
+      Procedure}
+      
        Step 1 - Review the previous topics using keywords and short descriptions
+       
        Step 2 - Actual Teaching
+       
        Step 3 - Randomly select one student ($Stu_{i}$ ; $_{i}$ =1) from one of the previous attendance list
-       Repeat
+       
+       Repeat{
+       
             Step 4 - Selected student ($Stu_{i}$): will ask a question based on one topic and suggest a random number
+            
             State Step 5 - Student ($Stu_{i+1}$) on the selected number by the first student ($Stu_{i}$) will answer the question
+            
             State Step 6 - If the second student ($Stu_{i+1}$) cannot answer the question, one volunteer student will answer, otherwise, the question generator ($Stu_{i}$) will answer it
+            
             State Step 7 - Second student ($Stu_{i+1}$) will ask a question based on another topic proposed by the lecturer and propose a random number (which will be the third student ($Stu_{i+1+1}$) for answering the second question)
-      Until {All topics covered until that session}
-     EndProcedure
+            
+      }Until {All topics covered until that session}
+      
+     }EndProcedure
+     
   End Algorithm
 
 
