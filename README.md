@@ -32,5 +32,6 @@ Algorithm 1: Think-Quescussion
   End Algorithm
 
 
+## Founder and Owner
 
 * [**Arash Habibi Lashkari:**](https://www.cs.unb.ca/~alashkar/) Founder and Project Owner
