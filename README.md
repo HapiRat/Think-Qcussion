@@ -31,11 +31,11 @@ Algorithm 1: Think-Quescussion {
        
             Step 4 - Selected student ($Stu_{i}$): will ask a question based on one topic and suggest a random number
             
-            State Step 5 - Student ($Stu_{i+1}$) on the selected number by the first student ($Stu_{i}$) will answer the question
+            Step 5 - Student ($Stu_{i+1}$) on the selected number by the first student ($Stu_{i}$) will answer the question
             
-            State Step 6 - If the second student ($Stu_{i+1}$) cannot answer the question, one volunteer student will answer, otherwise, the question generator ($Stu_{i}$) will answer it
+            Step 6 - If the second student ($Stu_{i+1}$) cannot answer the question, one volunteer student will answer, otherwise, the question generator ($Stu_{i}$) will answer it
             
-            State Step 7 - Second student ($Stu_{i+1}$) will ask a question based on another topic proposed by the lecturer and propose a random number (which will be the third student ($Stu_{i+1+1}$) for answering the second question)
+            Step 7 - Second student ($Stu_{i+1}$) will ask a question based on another topic proposed by the lecturer and propose a random number (which will be the third student ($Stu_{i+1+1}$) for answering the second question)
             
       } Until {All topics covered until that session}
       
