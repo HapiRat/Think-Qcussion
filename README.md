@@ -1,6 +1,6 @@
 # Think-Qcussion (Think - Question Discussion)
 
-## In an effective classroom, students should not only know what they are doing, they should also know why and how.
+### In an effective classroom, students should not only know what they are doing, they should also know why and how.
 
 I believe that every classroom has its own unique community, especially when international students are exhibiting multicultural learning styles. I have derived this statement from 25 years of experience as a teacher, instructor and lecturer. I worked for more than eight different institutes, colleges and universities during that tenure. I taught over 23 certification and degree courses, conducted more than 19 workshops and 18 online and distance learning courses in different countries. My innovative teaching methodology, named, "Think-Qcussion" reflects the essential elements of my teaching philosophy. I divide all my teaching sessions into three parts: 
 
