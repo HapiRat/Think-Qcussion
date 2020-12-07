@@ -1,4 +1,4 @@
-# Think-Qcussion (Think - Question Discussion)
+## Think-Qcussion (Think - Question Discussion)
 
 ### In an effective classroom, students should not only know what they are doing, they should also know why and how.
 
@@ -53,7 +53,7 @@ copies of the Software, and to permit persons to whom the Software is furnished 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 For citation in your works and also understanding AndroidAppLyzer completely, you can find below published paper:
-Arash Habibi Lashkari, “Think-Qcussion", University of New Brunswick (UNB), Fredericton, New Brunswick (UNB), Canada
+#### Arash Habibi Lashkari, “Think-Qcussion", University of New Brunswick (UNB), Fredericton, New Brunswick (UNB), Canada
 
 
 ## Founder and Owner
